@@ -33,6 +33,9 @@ public class HelloWorld {
    * Main method for running the HelloWorld demo.
    */
   public static void main(String[] args) {
+    
+    System.out.println("Done");
+    
     try {
       URL url;
       if (args.length > 0) {
